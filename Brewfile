@@ -114,10 +114,12 @@ brew tree
 brew tree-sitter
 brew unbound
 brew unibilium
+brew unzip
 brew utf8proc
 brew vim
 brew wget
 brew xz
+brew zip
 brew zlib
 brew zsh
 brew zstd
@@ -130,22 +132,17 @@ cask font-migu-1m
 cask font-sauce-code-pro-nerd-font
 
 tap homebrew/cask
-cask alacritty
 cask alfred
 cask appcleaner
-cask bitwarden
 cask cheatsheet
 cask chromedriver
 cask clipy
 cask cyberduck
 cask evernote
 cask fiji
-cask gitkraken
 cask google-chrome
 cask google-japanese-ime
-cask hammerspoon
 cask iterm2
-cask karabiner-elements
 cask keyboardcleantool
 cask macs-fan-control
 cask mi
@@ -156,11 +153,9 @@ cask nomachine
 cask onyx
 cask openinterminal-lite
 cask r
-cask rectangle
 cask rstudio
 cask shiftit
 cask slack
-cask sublime-text
 cask the-unarchiver
 cask visual-studio-code
 cask xquartz
@@ -184,7 +179,7 @@ cask google-backup-and-sync
 # App Store applications
 appstore 1432731683  Adblock Plus                  (2.2)
 appstore 1055511498  Day One                       (7.12)
-appstore 1558391686  Dropbox Passwords for Safari  (2.67.1)
+appstore 1558391686  Dropbox Passwords for Safari  (2.68.0)
 appstore 1481669779  Evernote Web Clipper          (7.24.0)
 appstore 682658836   GarageBand                    (10.4.6)
 appstore 1462114288  Grammarly for Safari          (9.59)
