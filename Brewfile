@@ -130,6 +130,7 @@ brew zstd
 tap homebrew/bundle
 
 tap homebrew/cask-fonts
+cask font-hack-nerd-font
 cask font-jetbrains-mono-nerd-font
 cask font-migu-1m
 cask font-sauce-code-pro-nerd-font
