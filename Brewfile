@@ -10,6 +10,8 @@ brew bash
 brew bat
 brew bdw-gc
 brew berkeley-db
+brew brotli
+brew c-ares
 brew ca-certificates
 brew clang-format
 brew cmake
@@ -80,6 +82,7 @@ brew ncurses
 brew neovim
 brew nettle
 brew ninja
+brew node
 brew npth
 brew nvm
 brew oath-toolkit
