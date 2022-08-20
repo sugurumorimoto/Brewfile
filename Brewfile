@@ -16,6 +16,7 @@ brew ca-certificates
 brew clang-format
 brew cmake
 brew coreutils
+brew cpanminus
 brew direnv
 brew docker-completion
 brew docker-compose-completion
@@ -184,9 +185,9 @@ cask google-backup-and-sync
 appstore 1432731683  Adblock Plus                  (2.2)
 appstore 1055511498  Day One                       (7.12)
 appstore 1558391686  Dropbox Passwords for Safari  (2.68.0)
-appstore 1481669779  Evernote Web Clipper          (7.24.0)
+appstore 1481669779  Evernote Web Clipper          (7.25.0)
 appstore 682658836   GarageBand                    (10.4.6)
-appstore 1462114288  Grammarly for Safari          (9.59)
+appstore 1462114288  Grammarly for Safari          (9.60)
 appstore 408981434   iMovie                        (10.3.3)
 appstore 409183694   Keynote                       (12.1)
 appstore 539883307   LINE                          (7.9.0)
