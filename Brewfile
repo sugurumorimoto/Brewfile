@@ -145,6 +145,7 @@ cask clipy
 cask cyberduck
 cask evernote
 cask fiji
+cask gimp
 cask google-chrome
 cask google-japanese-ime
 cask iterm2
@@ -183,14 +184,15 @@ cask google-backup-and-sync
 
 # App Store applications
 appstore 1432731683  Adblock Plus                  (2.2)
-appstore 1055511498  Day One                       (7.13)
-appstore 1558391686  Dropbox Passwords for Safari  (2.70.0)
-appstore 1481669779  Evernote Web Clipper          (7.25.0)
+appstore 1055511498  Day One                       (7.15)
+appstore 1558391686  Dropbox Passwords for Safari  (2.74.1)
+appstore 1355679052  Dropover                      (4.7.1)
+appstore 1481669779  Evernote Web Clipper          (7.26.2)
 appstore 682658836   GarageBand                    (10.4.6)
-appstore 1462114288  Grammarly for Safari          (9.60)
+appstore 1462114288  Grammarly for Safari          (9.62)
 appstore 408981434   iMovie                        (10.3.4)
 appstore 409183694   Keynote                       (12.1)
-appstore 539883307   LINE                          (7.10.2)
+appstore 539883307   LINE                          (7.11.0)
 appstore 1216244845  Mail for Gmail                (1.1.1)
 appstore 1295203466  Microsoft Remote Desktop      (10.7.9)
 appstore 409203825   Numbers                       (12.1)
@@ -198,4 +200,4 @@ appstore 1540160809  OneTab                        (1.57)
 appstore 409201541   Pages                         (12.1)
 appstore 1413099251  Password Manager For Safari   (5.0.1010)
 appstore 495945638   Wake Up Time                  (1.4)
-appstore 497799835   Xcode                         (13.4.1)
+appstore 497799835   Xcode                         (14.0)
