@@ -10,6 +10,7 @@ brew bash
 brew bat
 brew bdw-gc
 brew berkeley-db
+brew boost
 brew brotli
 brew c-ares
 brew ca-certificates
@@ -20,6 +21,7 @@ brew cpanminus
 brew direnv
 brew docker-completion
 brew docker-compose-completion
+brew eigen
 brew envchain
 brew exa
 brew fd
@@ -44,6 +46,7 @@ brew hexyl
 brew hwloc
 brew icu4c
 brew igv
+brew intltool
 brew isl
 brew jpeg
 brew jq
@@ -110,6 +113,7 @@ brew ruby
 brew shellcheck
 brew smartmontools
 brew spark
+brew spectra
 brew sqlite
 brew tcl-tk
 brew tmux
@@ -138,16 +142,19 @@ cask font-sauce-code-pro-nerd-font
 
 tap homebrew/cask
 cask alfred
+cask anki
 cask appcleaner
 cask cheatsheet
 cask chromedriver
 cask clipy
 cask cyberduck
+cask deepl
 cask evernote
 cask fiji
 cask gimp
 cask google-chrome
 cask google-japanese-ime
+cask iina
 cask iterm2
 cask keyboardcleantool
 cask macs-fan-control
@@ -183,21 +190,21 @@ tap sanemat/font
 cask google-backup-and-sync
 
 # App Store applications
-appstore 1432731683  Adblock Plus                  (2.2)
-appstore 1055511498  Day One                       (7.15)
-appstore 1558391686  Dropbox Passwords for Safari  (2.74.1)
-appstore 1355679052  Dropover                      (4.7.1)
-appstore 1481669779  Evernote Web Clipper          (7.26.2)
-appstore 682658836   GarageBand                    (10.4.6)
-appstore 1462114288  Grammarly for Safari          (9.62)
-appstore 408981434   iMovie                        (10.3.4)
-appstore 409183694   Keynote                       (12.1)
-appstore 539883307   LINE                          (7.11.0)
+appstore 1432731683  Adblock Plus                  (2.2.1)
+appstore 1055511498  Day One                       (7.21)
+appstore 1558391686  Dropbox Passwords for Safari  (2.87.0)
+appstore 1355679052  Dropover                      (4.8.1)
+appstore 1481669779  Evernote Web Clipper          (7.29.2)
+appstore 682658836   GarageBand                    (10.4.7)
+appstore 1462114288  Grammarly for Safari          (9.63)
+appstore 408981434   iMovie                        (10.3.5)
+appstore 409183694   Keynote                       (12.2.1)
+appstore 539883307   LINE                          (7.14.1)
 appstore 1216244845  Mail for Gmail                (1.1.1)
-appstore 1295203466  Microsoft Remote Desktop      (10.7.9)
-appstore 409203825   Numbers                       (12.1)
+appstore 1295203466  Microsoft Remote Desktop      (10.7.10)
+appstore 409203825   Numbers                       (12.2.1)
 appstore 1540160809  OneTab                        (1.57)
-appstore 409201541   Pages                         (12.1)
+appstore 409201541   Pages                         (12.2.1)
 appstore 1413099251  Password Manager For Safari   (5.0.1010)
 appstore 495945638   Wake Up Time                  (1.4)
-appstore 497799835   Xcode                         (14.0)
+appstore 497799835   Xcode                         (14.1)
