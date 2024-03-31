@@ -2,18 +2,27 @@
 # tap repositories and their packages
 
 tap homebrew/core
+brew abseil
+brew abyss
 brew anyenv
 brew aom
+brew argtable
 brew aria2
 brew aribb24
 brew autoconf
 brew automake
+brew bamtools
 brew bash
 brew bat
 brew bdw-gc
+brew bedtools
 brew berkeley-db
+brew berkeley-db@5
+brew blast
 brew boost
+brew bowtie2
 brew brotli
+brew bwa
 brew c-ares
 brew ca-certificates
 brew cairo
@@ -28,6 +37,7 @@ brew docker-completion
 brew eigen
 brew envchain
 brew exa
+brew fastqc
 brew fd
 brew ffmpeg
 brew findutils
@@ -58,6 +68,7 @@ brew handbrake
 brew harfbuzz
 brew hexyl
 brew highway
+brew htslib
 brew hwloc
 brew icu4c
 brew igv
@@ -68,6 +79,7 @@ brew jpeg
 brew jpeg-turbo
 brew jpeg-xl
 brew jq
+brew jsoncpp
 brew lame
 brew lazygit
 brew leptonica
@@ -87,6 +99,7 @@ brew libmicrohttpd
 brew libmpc
 brew libnghttp2
 brew libogg
+brew libomp
 brew libpng
 brew libpthread-stubs
 brew librist
@@ -94,6 +107,7 @@ brew libsamplerate
 brew libsndfile
 brew libsodium
 brew libsoxr
+brew libssh
 brew libssh2
 brew libtasn1
 brew libtermkey
@@ -118,6 +132,7 @@ brew libxmlsec1
 brew libxrender
 brew libyaml
 brew little-cms2
+brew lmdb
 brew lua
 brew luajit
 brew luv
@@ -130,6 +145,7 @@ brew mpdecimal
 brew mpfr
 brew mpg123
 brew msgpack
+brew mysql@5.7
 brew navi
 brew ncurses
 brew neovim
@@ -137,6 +153,7 @@ brew nettle
 brew ninja
 brew node
 brew npth
+brew numpy
 brew nvm
 brew oath-toolkit
 brew oniguruma
@@ -149,6 +166,7 @@ brew openjpeg
 brew openldap
 brew openssl@1.1
 brew openssl@3
+brew openvino
 brew opus
 brew p11-kit
 brew pango
@@ -160,10 +178,12 @@ brew pinentry
 brew pinentry-mac
 brew pixman
 brew pkg-config
+brew pmix
+brew protobuf
+brew pugixml
 brew pwgen
 brew python-brotli
 brew python-certifi
-brew python-mutagen
 brew python@3.10
 brew python@3.11
 brew python@3.12
@@ -174,6 +194,7 @@ brew readline
 brew ripgrep
 brew rubberband
 brew ruby
+brew samtools
 brew sdl2
 brew shellcheck
 brew smartmontools
@@ -183,8 +204,8 @@ brew spectra
 brew speex
 brew sqlite
 brew srt
-brew star
 brew svt-av1
+brew tbb
 brew tcl-tk
 brew tesseract
 brew theora
@@ -196,6 +217,7 @@ brew unbound
 brew unibilium
 brew unzip
 brew utf8proc
+brew vcftools
 brew vim
 brew webp
 brew wget
@@ -258,6 +280,9 @@ cask font-migu-1m
 cask font-sauce-code-pro-nerd-font
 
 tap brewsci/bio
+brew blat
+brew clustal-omega
+brew salmon
 
 tap buo/cask-upgrade
 
@@ -271,26 +296,27 @@ tap sanemat/font
 # Other Homebrew packages
 brew docker-compose-completion
 brew kite
+brew python-mutagen
 
 # Other Cask applications
 cask google-backup-and-sync
 
 # App Store applications
 appstore 1432731683 Adblock Plus (2.2.12)
-appstore 302584613 Amazon Kindle (7.0.1)
-appstore 1055511498 Day One (2023.26)
+appstore 302584613 Amazon Kindle (7.4)
+appstore 1055511498 Day One (2024.3)
 appstore 1558391686 Dropbox Passwords for Safari (3.26.0)
-appstore 1355679052 Dropover (4.12.1)
-appstore 1216244845 EasyMail (1.1.2)
+appstore 1355679052 Dropover (4.13.2)
 appstore 1481669779 Evernote Web Clipper (7.34.0)
-appstore 1462114288 Grammarly for Safari (9.71)
+appstore 1462114288 Grammarly for Safari (9.72)
 appstore 408981434 iMovie (10.4)
 appstore 409183694 Keynote (13.2)
 appstore 411213048 LadioCast (000013000)
-appstore 539883307 LINE (8.5.2)
-appstore 1295203466 Microsoft Remote Desktop (10.9.5)
+appstore 539883307 LINE (8.6.0)
+appstore 1216244845 Mail+ for Gmail (2.0.2)
+appstore 1295203466 Microsoft Remote Desktop (10.9.6)
 appstore 409203825 Numbers (13.2)
 appstore 1540160809 OneTab (1.84)
 appstore 409201541 Pages (13.2)
 appstore 495945638 Wake Up Time (1.4)
-appstore 497799835 Xcode (15.2)
+appstore 497799835 Xcode (15.3)
